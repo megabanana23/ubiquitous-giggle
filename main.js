@@ -19,7 +19,7 @@ function draw(){
     document.getElementById("font_size").innerHTML = "Font Size Of The Text Will Be = "+difference+"px";
     textSize(difference);
     fill("#00ff0a");
-    text('Balakrishnan',50,400);
+    text('Om',50,400);
 }
 
 function modelDone(){
